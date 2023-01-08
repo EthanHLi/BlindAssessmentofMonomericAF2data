@@ -6,7 +6,7 @@ Each target folder contains PDB coordinates, AF2 coordinates, BMRB chemical shif
 - NOESY peak lists ["n15, c13aro/ali, 3D/4Dc"noesy.txt]
 - PSVS Reports [NAME_"ID"_"Method".zip]  
 - RPF Reports [rpf_"ID"_"Method"_timedata.zip]  
-- RDC Data [
+- RDC Data (2kzv only)[2KZV_realexample.tgz]
   
 FID links:  
 2HEQ https://bmrb.io/ftp/pub/bmrb/entry_directories/bmr7175/timedomain_data/  
