@@ -7,6 +7,7 @@ Each target folder contains PDB coordinates, AF2 coordinates, BMRB chemical shif
 - PSVS Reports [NAME_"ID"_"Method".zip]  
 - RPF Reports [rpf_"ID"_"Method"_timedata.zip]  
 - RDC Data (2kzv only)[2KZV_realexample.tgz]
+- NMR Restraints ["ID".mr (ver 1) or "ID"_mr.str (ver 2)]
   
 FID links:  
 2HEQ https://bmrb.io/ftp/pub/bmrb/entry_directories/bmr7175/timedomain_data/  
